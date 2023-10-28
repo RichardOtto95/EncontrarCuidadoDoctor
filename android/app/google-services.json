@@ -1,0 +1,234 @@
+{
+  "project_info": {
+    "project_number": "136807747147",
+    "project_id": "encontrar-cuidado-project",
+    "storage_bucket": "encontrar-cuidado-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136807747147:android:828d4c7acdba9af09947ce",
+        "android_client_info": {
+          "package_name": "com.encontrar_cuidado.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136807747147-03n33fac4es2uoifjf1s2kqj8vhps7fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "8d923a2d624eaa91e86868b5c3fce4818bf2081f"
+          }
+        },
+        {
+          "client_id": "136807747147-1vl9o5vl1h3phfkrj0i7q1977jd2ji2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "b054c065769dc76c6dd419ad032527dfc2f71488"
+          }
+        },
+        {
+          "client_id": "136807747147-2i85edd0dktgor1hfpi4guqm89m2kkhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "d1f1e1781df5622c0a7c6990c2f202e0b0cf2b0b"
+          }
+        },
+        {
+          "client_id": "136807747147-4odsnmsiov0n7pnmvv3978jiga250s3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "d2791c57c11264a202f5fc636b037c782af73d5b"
+          }
+        },
+        {
+          "client_id": "136807747147-ah89t0qsa4rkfci6dr5fuemrrftrs4hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "1da4bc275c9f1b12073bc460715034decbd1be34"
+          }
+        },
+        {
+          "client_id": "136807747147-bh0qv7cj9g0bpckbpq3u1r2l8ug1h9ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "55530700ca741e548b8048ff55d6e0ccb2cb7336"
+          }
+        },
+        {
+          "client_id": "136807747147-i8ouuncgfidjdpo0l9ruc9hd52epmqj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "9ac686df69f0c4b6af4bd2304b96b4d6cd1c9bb5"
+          }
+        },
+        {
+          "client_id": "136807747147-q5tldm4appdjj0jijlqfhmi8gep8vh17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "a4d752ccf5f530acd3597ec247520e598b34021c"
+          }
+        },
+        {
+          "client_id": "136807747147-rnqgpp7250c43lb1cln0c9hbeqksrmvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "e912ae59046957bf00fd4c6219ab38e252313f0c"
+          }
+        },
+        {
+          "client_id": "136807747147-vf1ifk6j3jt9nbaf2eq0hkrqga7ncuot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.doctor",
+            "certificate_hash": "6b63166e3bede65a67ab70f0899d644a88a87603"
+          }
+        },
+        {
+          "client_id": "136807747147-ricb1svgf678eo7m9u9psc4o0u08k2gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeT6smOTqsGm1E0Ckllb10U0mHA4ScZzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136807747147-ricb1svgf678eo7m9u9psc4o0u08k2gq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136807747147-6np3kaov9335kve04uguqfsq7cm7l4fu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.encontrar_cuidado.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136807747147:android:9ba0938169e1ff899947ce",
+        "android_client_info": {
+          "package_name": "com.encontrar_cuidado.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136807747147-1o69b07mv65jqm32bqsurrv5g61mnem5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "d1f1e1781df5622c0a7c6990c2f202e0b0cf2b0b"
+          }
+        },
+        {
+          "client_id": "136807747147-5oauh5a6v7vvrsvcapsn6m0oo00sk4bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "b054c065769dc76c6dd419ad032527dfc2f71488"
+          }
+        },
+        {
+          "client_id": "136807747147-diloka8o8l3igau2dofm80o44kcdu8f5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "7fa4de0e787cecdc33ee5f6749888f677a457aae"
+          }
+        },
+        {
+          "client_id": "136807747147-ekgrmkuhhpcld3qf91e4sg9hbk6hmsnq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "a4d752ccf5f530acd3597ec247520e598b34021c"
+          }
+        },
+        {
+          "client_id": "136807747147-evghbdr0inc1lvqak1819g79642r3t3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "6b63166e3bede65a67ab70f0899d644a88a87603"
+          }
+        },
+        {
+          "client_id": "136807747147-jj97l8cehq30ql5v2em0oj367ml5dnn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "9ac686df69f0c4b6af4bd2304b96b4d6cd1c9bb5"
+          }
+        },
+        {
+          "client_id": "136807747147-jon4d5q8kasgs6bo0du5p5tlq60vgtob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "1da4bc275c9f1b12073bc460715034decbd1be34"
+          }
+        },
+        {
+          "client_id": "136807747147-nci1lplj2ve2rh9iu933o37ddk56vsu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "55530700ca741e548b8048ff55d6e0ccb2cb7336"
+          }
+        },
+        {
+          "client_id": "136807747147-p43j1g8at7otp09oj7kc7d1ddofja1md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encontrar_cuidado.patient",
+            "certificate_hash": "8d923a2d624eaa91e86868b5c3fce4818bf2081f"
+          }
+        },
+        {
+          "client_id": "136807747147-ricb1svgf678eo7m9u9psc4o0u08k2gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeT6smOTqsGm1E0Ckllb10U0mHA4ScZzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136807747147-ricb1svgf678eo7m9u9psc4o0u08k2gq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "136807747147-6np3kaov9335kve04uguqfsq7cm7l4fu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.encontrar_cuidado.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

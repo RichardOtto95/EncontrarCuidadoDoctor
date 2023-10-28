@@ -1,0 +1,12 @@
+{
+    "citys": [
+        {"keyword": "Ceilandia",
+            "id": 1,
+            "autocompleteTerm": "Ceilândia",
+            "country": "DF"},
+        {"keyword": "Samambaia",
+            "id": 1,
+            "autocompleteTerm": "Samambaia",
+            "country": "DF"}
+    ]
+}

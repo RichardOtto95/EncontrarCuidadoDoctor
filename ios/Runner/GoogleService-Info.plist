@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>245406601815-abm3tkrhfje1rv05f9quo07bngrgkoji.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.245406601815-abm3tkrhfje1rv05f9quo07bngrgkoji</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>245406601815-1acrqg5a8uo7e5341oqnq44qik3um4b3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC48v6wNvPauIsJYxTXdMnXmK8zV7wZ7Yg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>245406601815</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.encontrar_cuidado.patient</string>
+	<key>PROJECT_ID</key>
+	<string>encontrar-cuidado-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>encontrar-cuidado-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:245406601815:ios:02969c6fb5d7b07b728912</string>
+</dict>
+</plist>
